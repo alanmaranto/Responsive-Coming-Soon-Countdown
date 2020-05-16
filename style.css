@@ -10,3 +10,9 @@
 body {
     background: #312747;
 }
+
+.wave{
+    position: absolute;
+    bottom: 0;
+    right: 0;
+}
